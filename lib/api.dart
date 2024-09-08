@@ -142,7 +142,7 @@ class _SuperheroListState extends State<SuperheroList> {
                             borderRadius: BorderRadius.circular(8),
                             image: DecorationImage(
                               image: NetworkImage(hero.url),
-                              fit: BoxFit.cover,
+                              fit: BoxFit.fill,
                             ),
                           ),
                         ),
