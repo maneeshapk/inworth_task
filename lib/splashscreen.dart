@@ -41,7 +41,7 @@ class _SplashScreenState extends State<SplashScreen> {
           Positioned(
             bottom: MediaQuery.of(context).size.width / 1 - 200,
             child: const Text(
-              '   SUPER HEROES',
+              'SUPER HEROES',
               style: TextStyle(
                 fontSize: 48,
                 fontWeight: FontWeight.w500,
